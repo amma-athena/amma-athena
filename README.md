@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amma-athena and this is my boilerplate intro!
 - 👀 I’m interested in infosec, tinkering on things with python and doing puzzles to learn new things.
-- 🌱 I’m currently learning how github works. Also how to do web scraping in text analysis.
+- 🌱 I’m currently learning how github works. Also how to do web scraping and text analysis.
 
 
 <!---
